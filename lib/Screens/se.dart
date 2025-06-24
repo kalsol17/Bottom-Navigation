@@ -17,7 +17,7 @@ class _SeState extends State<Se> {
         child:Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('Hello this is Computer Science screen')
+            Text('Hello this is Software enginnering screen')
           ],
         )
       )

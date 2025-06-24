@@ -44,8 +44,9 @@ class _BottomNavState extends State<BottomNav> {
       items: [
         BottomNavigationBarItem(icon: Icon(Icons.home),label:"Home"),
         BottomNavigationBarItem(icon: Icon(Icons.computer),label:"CS"),
-        BottomNavigationBarItem(icon: Icon(Icons.memory),label:"IT"),
         BottomNavigationBarItem(icon: Icon(Icons.code),label:"SE"),
+        BottomNavigationBarItem(icon: Icon(Icons.memory),label:"IT"),
+
       ],
       ),
     );

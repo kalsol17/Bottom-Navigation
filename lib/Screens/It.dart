@@ -17,10 +17,12 @@ class _ItState extends State<It> {
         child:Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-             Text('Hello this is Computer Science screen')
+             Text('Hello this is Information Technology screen')
           ],
         )
       )
     );
   }
 }
+
+
